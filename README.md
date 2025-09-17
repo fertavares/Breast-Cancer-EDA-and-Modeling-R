@@ -2,7 +2,7 @@
 
 # 🧬 Breast Cancer EDA and Modeling with R – Wisconsin Dataset
 
-## 🇺🇸 English Version
+## 🇺🇸 English
 
 This repository contains a Jupyter Notebook that demonstrates **Exploratory Data Analysis (EDA)** and basic modeling using **R** on the **Breast Cancer Wisconsin dataset**.
 The main goal is to explore the dataset, preprocess the data, and apply a simple classification approach to distinguish between **Benign** and **Malignant** tumors.
